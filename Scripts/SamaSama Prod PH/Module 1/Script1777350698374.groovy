@@ -23,7 +23,7 @@ Mobile.tap(findTestObject('SamaSama_apps/Food_Icon'), 0)
 
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('SamaSama_apps/Produk_C2_apple_SOLO'), 0)
+Mobile.tap(findTestObject('SamaSama_apps/Product_C2_apple_SOLO'), 0)
 
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 

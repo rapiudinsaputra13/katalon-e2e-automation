@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ambil Foto Selfie_fnt_wht_a txt_12</name>
+   <tag></tag>
+   <elementGuidId>70520472-f254-42a9-a33d-91a736e2e6a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[4]/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fnt_wht_a.txt_12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6aa81d38-0a67-4f26-a7dc-e49f799e3f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fnt_wht_a txt_12</value>
+      <webElementGuid>b9e0247e-8477-488e-8544-204d8b68542d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selfie</value>
+      <webElementGuid>1e2a6aab-c017-43c8-9f47-45fb69322a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app_phone_root&quot;]/div[@class=&quot;app_phone_ctn&quot;]/div[1]/div[1]/div[4]/div[@class=&quot;crs_pointer view_center&quot;]/span[@class=&quot;fnt_wht_a txt_12&quot;]</value>
+      <webElementGuid>1610a99c-25c9-4fd1-9498-20c373983cef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[4]/div[2]/span</value>
+      <webElementGuid>a516ea2d-0a25-4cc0-a750-be17bffad1a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ambil Foto Selfie'])[1]/following::span[1]</value>
+      <webElementGuid>d31bbc80-e6eb-4ab9-a145-4b20e3f262bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek GPS'])[1]/following::span[2]</value>
+      <webElementGuid>d56c3e2f-267f-48fb-b9ab-216e84d0780c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTES :'])[1]/preceding::span[1]</value>
+      <webElementGuid>44983789-02ca-457e-bde4-f2b07aaeec15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELFIE HARUS TERLIHAT WAJAH DAN LATAR BELAKANG TEMPAT.'])[1]/preceding::span[2]</value>
+      <webElementGuid>bf89657e-b025-4d67-ac22-2bdb00a695d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selfie']/parent::*</value>
+      <webElementGuid>de717849-be4e-4439-afb9-981220e6d786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/span</value>
+      <webElementGuid>719f3f5e-0be0-4b1c-9cb9-54503b8dd5b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Selfie' or . = 'Selfie')]</value>
+      <webElementGuid>b23a4eea-0ca4-4318-8c7c-2a9447a84d53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

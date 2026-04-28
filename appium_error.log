@@ -1,0 +1,2 @@
+(node:27916) [DEP0128] DeprecationWarning: Invalid 'main' field in 'C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\mjpeg-server\package.json' of './lib/mpegserver'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)

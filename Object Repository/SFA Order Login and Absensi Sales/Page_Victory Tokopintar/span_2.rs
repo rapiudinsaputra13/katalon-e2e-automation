@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2</name>
+   <tag></tag>
+   <elementGuidId>84fffa19-a2c3-4612-8450-22937eda036a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/div/div/div/div[1]/div[2]/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(7) > div.fnt_wht_a.txt_12.crs_pointer > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f5db060a-865f-428f-bdf6-39cdd9f690ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan</value>
+      <webElementGuid>3331fe53-4c9b-46ae-86e2-29e07cb7bd67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app_phone_root&quot;]/div[@class=&quot;app_phone_ctn&quot;]/div[1]/div[1]/div[7]/div[@class=&quot;fnt_wht_a txt_12 crs_pointer&quot;]/span[1]</value>
+      <webElementGuid>8d88236c-06bc-45b1-a603-6892df93564d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[7]/div/span</value>
+      <webElementGuid>f13ca44d-1263-4811-87cb-6f75a7270be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELFIE HARUS TERLIHAT WAJAH DAN LATAR BELAKANG TEMPAT.'])[1]/following::span[1]</value>
+      <webElementGuid>f3b7f3d7-846e-4cad-868d-b4daaede320f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTES :'])[1]/following::span[2]</value>
+      <webElementGuid>52cb4206-11d3-4e7f-a678-4e3dbd7df76c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
+      <webElementGuid>8d5451ae-d670-4894-86cb-b2eb88c61fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/span</value>
+      <webElementGuid>3092a638-3f8b-4862-bc9e-f7e8d37f5301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>d349193d-bf53-4fb0-8bd8-ee04dd2537ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

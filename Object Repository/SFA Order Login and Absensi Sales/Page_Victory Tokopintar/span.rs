@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>2c47ec3e-472b-4f85-8d7c-587867dcd6c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[4]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fnt_wht_a.txt_14.crs_pointer > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>56996a66-783a-4484-9885-50b02588d7d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjutkan</value>
+      <webElementGuid>72731393-7f96-4398-b7dd-2dc5402e9173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;view_center&quot;]/div[@class=&quot;react-reveal&quot;]/div[4]/div[@class=&quot;fnt_wht_a txt_14 crs_pointer&quot;]/span[1]</value>
+      <webElementGuid>125899a6-e924-4f01-a667-ae6fa5a4cfe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[4]/div/span</value>
+      <webElementGuid>18f87377-ab99-4be5-8288-4c5fd17ec3ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan nomor handphone anda.'])[1]/following::span[1]</value>
+      <webElementGuid>21ae3a23-de2d-48e6-a518-a0927f3ae322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone'])[1]/following::span[2]</value>
+      <webElementGuid>a45449ca-14fb-4b8e-8fe7-307953daea66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lanjutkan']/parent::*</value>
+      <webElementGuid>d581ca2e-1723-42ea-b194-92a8c965448a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span</value>
+      <webElementGuid>729a4085-f4ae-4aa0-abdc-36cf28295084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lanjutkan' or . = 'Lanjutkan')]</value>
+      <webElementGuid>fe426a5b-57a7-483b-beb6-f2b33e9fe2e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

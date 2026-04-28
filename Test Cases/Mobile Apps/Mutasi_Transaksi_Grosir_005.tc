@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mutasi_Transaksi_Grosir_005</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dde4d5fb-6a7b-4d1a-bdc3-a20ca3485f95</testCaseGuid>
+</TestCaseEntity>

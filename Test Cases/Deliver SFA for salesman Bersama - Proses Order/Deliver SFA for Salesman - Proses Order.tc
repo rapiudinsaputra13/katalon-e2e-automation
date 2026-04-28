@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Deliver SFA for Salesman - Proses Order</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ef3d786-f34f-4616-b61d-0626197c69d1</testCaseGuid>
+</TestCaseEntity>

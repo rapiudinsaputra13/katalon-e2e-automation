@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nomor sudah terdaftar, silahkan masukka_85e78a</name>
+   <tag></tag>
+   <elementGuidId>26684eef-7cfc-45bb-b0b4-e33f7a0428f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fnt_wht_a.txt_14.crs_pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3d984ce-c22c-4351-8e2f-8fb2d1e58a9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fnt_wht_a txt_14 crs_pointer</value>
+      <webElementGuid>77523397-e35d-484c-b7ad-0c4283e58493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>a62e65b5-c11e-47fa-986c-cd5100acd4b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;view_center&quot;]/div[@class=&quot;react-reveal&quot;]/div[4]/div[@class=&quot;fnt_wht_a txt_14 crs_pointer&quot;]</value>
+      <webElementGuid>91575ecc-7476-4f06-8f59-2402c133d372</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[4]/div</value>
+      <webElementGuid>5b9d55e5-3aca-4453-91b3-51ddf10cc59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor sudah terdaftar, silahkan masukkan password anda.'])[1]/following::div[3]</value>
+      <webElementGuid>2f814202-b927-4bcd-9f95-9ce3626d4c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[4]</value>
+      <webElementGuid>0b6983f2-3287-40dc-a02b-3a6ff1203281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>7417b6a5-e5fe-4ce6-a58e-48fee34afb73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>b4c17f7c-2890-4514-a5f2-52281d3164e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

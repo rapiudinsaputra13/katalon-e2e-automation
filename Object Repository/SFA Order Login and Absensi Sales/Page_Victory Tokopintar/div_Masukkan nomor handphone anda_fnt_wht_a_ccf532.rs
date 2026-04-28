@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Masukkan nomor handphone anda_fnt_wht_a_ccf532</name>
+   <tag></tag>
+   <elementGuidId>669a05b5-43f1-48e8-8888-f48610db5b71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fnt_wht_a.txt_14.crs_pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8006cae-2702-443a-87a5-2202a5f042ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fnt_wht_a txt_14 crs_pointer</value>
+      <webElementGuid>b81bf5b1-6a85-4bb1-85f2-19c117d776f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjutkan</value>
+      <webElementGuid>d36bdde3-2415-4842-9604-dd0c7226c4d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;view_center&quot;]/div[@class=&quot;react-reveal&quot;]/div[4]/div[@class=&quot;fnt_wht_a txt_14 crs_pointer&quot;]</value>
+      <webElementGuid>94298f0b-d6b3-4150-80ac-cafea49c6537</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[4]/div</value>
+      <webElementGuid>852c0f57-003b-4deb-b32e-1292a305d261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan nomor handphone anda.'])[1]/following::div[3]</value>
+      <webElementGuid>ee330205-43f1-4313-881a-3163cd6e20cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone'])[1]/following::div[4]</value>
+      <webElementGuid>98a82348-f4bb-4735-8411-307434e70a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>4a80fc32-031e-4568-9720-aa5cbae385af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lanjutkan' or . = 'Lanjutkan')]</value>
+      <webElementGuid>8a86c540-cbc2-4e5b-a748-a8c5facdda53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

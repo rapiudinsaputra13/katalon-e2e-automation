@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_tidak bisa scan silahkan_crs_pointer nt_445d32</name>
+   <tag></tag>
+   <elementGuidId>ad46e0db-7f0d-4166-8db3-ff7f14381736</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8782b0c7-f659-4421-8711-6136be4ab971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>crs_pointer ntv_bg_color_a view_center</value>
+      <webElementGuid>05d5d09c-df2f-4d01-b9db-9e897cc28868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Isi Alasan</value>
+      <webElementGuid>9a1a0ae2-ae96-4ad6-9c8d-faa0b82467c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app_phone_root&quot;]/div[@class=&quot;app_phone_ctn&quot;]/div[2]/div[1]/div[@class=&quot;crs_pointer ntv_bg_color_a view_center&quot;]</value>
+      <webElementGuid>14918dfd-ed36-4810-abe9-5870de0d0f99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[6]</value>
+      <webElementGuid>5c18609f-fad7-401f-9f7d-d0ea10f23a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tidak bisa scan? silahkan...'])[1]/following::div[2]</value>
+      <webElementGuid>c365304c-54e4-4118-b633-52144bf0e2dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan Grosir'])[1]/following::div[4]</value>
+      <webElementGuid>41cb61a3-8909-4f82-a38f-5c0a0dc358ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>aab12bf4-181a-46ba-ba69-828aedb34912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Isi Alasan' or . = 'Isi Alasan')]</value>
+      <webElementGuid>a31e680e-3dad-4c77-9607-5027f6828c17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

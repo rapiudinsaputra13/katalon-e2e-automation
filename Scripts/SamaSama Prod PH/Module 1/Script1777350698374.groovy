@@ -73,3 +73,5 @@ Mobile.pressBack()
 
 Mobile.tap(findTestObject('SamaSama_apps/Confirmation_Pin'), 0)
 
+Mobile.comment('projecet start 28-04-2026')
+

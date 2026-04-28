@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mobile password number</name>
+   <tag></tag>
+   <elementGuidId>1041b6f5-e978-4bf2-aae8-a5fc9e3d9744</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fnt_wht_a.txt_14.crs_pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ea92b40-ab92-41fd-b1dc-34b5f62bf5f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fnt_wht_a txt_14 crs_pointer</value>
+      <webElementGuid>598c13ad-309b-4b35-9ed1-68dc7fad2636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjutkan</value>
+      <webElementGuid>736d93ed-421f-4d4d-9cb3-25e8a7e13677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;view_center&quot;]/div[@class=&quot;react-reveal&quot;]/div[4]/div[@class=&quot;fnt_wht_a txt_14 crs_pointer&quot;]</value>
+      <webElementGuid>f95e8c59-06aa-4c54-bf33-ab3928466181</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[4]/div</value>
+      <webElementGuid>8141c032-5fde-494a-a7d5-9c28f7ca15df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan nomor handphone anda.'])[1]/following::div[3]</value>
+      <webElementGuid>848a626f-17a8-4a08-bc50-37a7dd98c8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone'])[1]/following::div[4]</value>
+      <webElementGuid>e48faf4f-9958-44bd-914a-16ede2247c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>6fbc72d2-ebd7-4109-b212-5e50e1373b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lanjutkan' or . = 'Lanjutkan')]</value>
+      <webElementGuid>513a93d9-ca5e-4e6e-a2cc-c2c8775b16da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

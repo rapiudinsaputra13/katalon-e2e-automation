@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Masukkan nomor handphone anda_fnt_wht_a_ccf532</name>
+   <name>next button</name>
    <tag></tag>
-   <elementGuidId>669a05b5-43f1-48e8-8888-f48610db5b71</elementGuidId>
+   <elementGuidId>b5f379e4-6694-48de-bfcd-098c878ffac8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a8006cae-2702-443a-87a5-2202a5f042ad</webElementGuid>
+      <webElementGuid>2e1369d7-6579-491c-9321-1e714a7b6a91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fnt_wht_a txt_14 crs_pointer</value>
-      <webElementGuid>b81bf5b1-6a85-4bb1-85f2-19c117d776f3</webElementGuid>
+      <webElementGuid>e674e5db-2bc5-4046-af8c-e73f321715d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Lanjutkan</value>
-      <webElementGuid>d36bdde3-2415-4842-9604-dd0c7226c4d4</webElementGuid>
+      <webElementGuid>8d46f90e-e1cc-4656-ad00-149b0aff9947</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;view_center&quot;]/div[@class=&quot;react-reveal&quot;]/div[4]/div[@class=&quot;fnt_wht_a txt_14 crs_pointer&quot;]</value>
-      <webElementGuid>94298f0b-d6b3-4150-80ac-cafea49c6537</webElementGuid>
+      <webElementGuid>eb485f4b-8899-4f25-9256-25055000a89b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[4]/div</value>
-      <webElementGuid>852c0f57-003b-4deb-b32e-1292a305d261</webElementGuid>
+      <webElementGuid>1dcf70bc-1240-4ff2-a8c6-06cd5c4155ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan nomor handphone anda.'])[1]/following::div[3]</value>
-      <webElementGuid>ee330205-43f1-4313-881a-3163cd6e20cb</webElementGuid>
+      <webElementGuid>71b17768-bdab-47c7-8d84-a318f8bf3a0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone'])[1]/following::div[4]</value>
-      <webElementGuid>98a82348-f4bb-4735-8411-307434e70a48</webElementGuid>
+      <webElementGuid>3416abe6-f886-4cdf-8670-6fbc73d8ca0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div</value>
-      <webElementGuid>4a80fc32-031e-4568-9720-aa5cbae385af</webElementGuid>
+      <webElementGuid>eb7159f7-db29-47b4-a952-7c42189c23b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Lanjutkan' or . = 'Lanjutkan')]</value>
-      <webElementGuid>8a86c540-cbc2-4e5b-a748-a8c5facdda53</webElementGuid>
+      <webElementGuid>1972c941-764e-40bb-b29a-983f783a4e5d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

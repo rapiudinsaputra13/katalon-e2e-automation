@@ -19,12 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-def BASE_URL = 'https://victory-staging.samasamaapp.com/'
+def BASE_URL = 'https://victory.samasamaapp.com/'
 
 WebUI.comment('[Common] Opening Victory and logging in...')
 
 WebUI.openBrowser(BASE_URL)
-WebUI.maximizeWindow()
-WebUI.waitForPageLoad(15)
 
+WebUI.maximizeWindow()
+
+WebUI.waitForPageLoad(5)
+
+WebUI.click(findTestObject('Victory SamaSama Web/mobile phone number'))
+
+WebUI.setText(findTestObject('Victory SamaSama Web/mobile phone number'), '639677891276')
+
+WebUI.click(findTestObject('Victory SamaSama Web/next button'))
+
+WebUI.setText(findTestObject('Victory SamaSama Web/mobile phone number'), 'Garuda01')
+
+WebUI.click(findTestObject('Victory SamaSama Web/next button'))
 

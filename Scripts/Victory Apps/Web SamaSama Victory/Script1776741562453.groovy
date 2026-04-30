@@ -45,7 +45,7 @@ WebUI.setText(findTestObject('Victory SamaSama Web/mobile phone number'), '63967
 WebUI.click(findTestObject('Victory SamaSama Web/next button'))
 
 'Input Your Password'
-WebUI.setText(findTestObject('Victory SamaSama Web/mobile phone number'), '123456')
+WebUI.setText(findTestObject('Victory SamaSama Web/mobile phone number'), 'SamaSama2026@!')
 
 'Delay 5 second'
 Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)

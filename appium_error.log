@@ -1,2 +1,21 @@
-(node:27916) [DEP0128] DeprecationWarning: Invalid 'main' field in 'C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\mjpeg-server\package.json' of './lib/mpegserver'. Please either fix that or report it to the module author
+(node:8736) [DEP0128] DeprecationWarning: Invalid 'main' field in 'C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\mjpeg-server\package.json' of './lib/mpegserver'. Please either fix that or report it to the module author
 (Use `node --trace-deprecation ...` to show where the warning was created)
+[35m[Logcat][39m Logcat terminated with code 0, signal nulluncaughtException: Could not find a connected Android device in 20001ms.
+Error: Could not find a connected Android device in 20001ms.
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:266:13)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:18)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+    at getDevices (C:\Users\rapiu\AppData\Roaming\npm\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:283:12)
+

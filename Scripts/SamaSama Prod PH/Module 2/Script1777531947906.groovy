@@ -18,6 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling
+import com.kms.katalon.core.testobject.MobileTestObject
 
 // ============================================================
 // TC: Login Flow - SamaSama Staging
@@ -25,44 +28,37 @@ import com.kms.katalon.core.model.FailureHandling
 // Author  : QA Team
 // Version : 1.0
 // ============================================================
-
-// ── Config ──
+// Config
 def PHONE    = '639677891276'
 def PASSWORD = 'SamaSama2026@!'
 def WAIT     = 15
 
-try {
+def objPassword = findTestObject('SamaSama_apps/Enter Password')
 
-	// STEP 1 — Launch App
-	Mobile.startExistingApplication('lpi.samasama.staging')
-	Mobile.waitForElementPresent(findTestObject('SamaSama_apps/Phone Number'), WAIT)
-	println '✅ STEP 1 - App launched'
+// START
+println 'TC_A_001 - Start Login Test'
 
-	// STEP 2 — Input Phone Number
-	Mobile.tap(findTestObject('SamaSama_apps/Phone Number'), WAIT)
-	Mobile.setText(findTestObject('SamaSama_apps/Phone Number'), PHONE, WAIT)
-	Mobile.pressBack()
-	Mobile.delay(2)
-	println '✅ STEP 2 - Phone number entered'
+// STEP 1
+println 'TC_A_001 - STEP 1 - Launch App'
+Mobile.startExistingApplication('lpi.samasama.staging')
+Mobile.waitForElementPresent(findTestObject('SamaSama_apps/Phone Number'), WAIT, FailureHandling.STOP_ON_FAILURE)
 
-	// STEP 3 — Input Password
-	Mobile.tap(findTestObject('SamaSama_apps/Enter Password'), WAIT)
-	Mobile.setText(findTestObject('SamaSama_apps/Enter Password'), PASSWORD, WAIT)
-	Mobile.pressBack()
-	Mobile.delay(2)
-	println '✅ STEP 3 - Password entered'
+// STEP 2
+println 'TC_A_001 - STEP 2 - Input Phone'
+Mobile.tap(findTestObject('SamaSama_apps/Phone Number'), WAIT, FailureHandling.STOP_ON_FAILURE)
+Mobile.setText(findTestObject('SamaSama_apps/Phone Number'), PHONE, WAIT, FailureHandling.STOP_ON_FAILURE)
+Mobile.pressBack()
+Mobile.delay(2)
 
-	// STEP 4 — Tap Login
-	Mobile.waitForElementPresent(findTestObject('SamaSama_apps/LoginButton'), WAIT)
-	Mobile.tap(findTestObject('SamaSama_apps/LoginButton'), WAIT, FailureHandling.STOP_ON_FAILURE)
-	Mobile.delay(3)
-	println '✅ STEP 4 - Login button tapped'
+// STEP 3
+println 'TC_A_001 - STEP 3 - Input Password'
+Mobile.tap(objPassword, WAIT, FailureHandling.STOP_ON_FAILURE)
+Mobile.setText(objPassword, PASSWORD, WAIT, FailureHandling.STOP_ON_FAILURE)
+Mobile.pressBack()
+Mobile.delay(2)
 
-	println ''
-	println '✅ LOGIN FLOW - SUCCESS'
+// STEP 4
+println 'TC_A_001 - STEP 4 - Tap Login'
+Mobile.tap(findTestObject('SamaSama_apps/LoginButton'), WAIT, FailureHandling.STOP_ON_FAILURE)
 
-} catch (Exception e) {
-	println '❌ LOGIN FAILED: ' + e.getMessage()
-	Mobile.takeScreenshot('Reports/login_failed.png')
-	throw e
-}
+println 'TC_A_001 - LOGIN SUCCESS'

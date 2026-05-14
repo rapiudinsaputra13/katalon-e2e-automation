@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Page Smart Wholesaler</description>
+   <name>Module 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c6964cf-d78c-4672-9e10-579f42aa601b</testCaseGuid>
+</TestCaseEntity>

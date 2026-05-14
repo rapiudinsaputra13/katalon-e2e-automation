@@ -6,12 +6,12 @@
    <elementGuidId>524c579a-20bd-4a6c-b4d1-f8f51920de32</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.fnt_wht_a.txt_14.crs_pointer</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[3]/div/div[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;root&quot;]/div/div[3]/div/div[1]</value>
+         <key>CSS</key>
+         <value>div.fnt_wht_a.txt_14.crs_pointer</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>09e4eeda-55af-4b29-8825-9df9c02fca78</webElementGuid>
+      <webElementGuid>906a122b-03ba-41d6-895f-c3ffad6edd20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fnt_wht_a txt_14 crs_pointer</value>
-      <webElementGuid>7f19d9d2-b039-42d2-b593-c6407aab741a</webElementGuid>
+      <webElementGuid>ad83dcf3-4b39-4372-9f11-8212d2fc0e33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Lanjutkan</value>
-      <webElementGuid>693fd716-b8b3-4489-a78d-ebf459d2a37f</webElementGuid>
+      <webElementGuid>f5adc8af-8b96-4da0-b119-44b0a55e697d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;view_center&quot;]/div[@class=&quot;react-reveal&quot;]/div[4]/div[@class=&quot;fnt_wht_a txt_14 crs_pointer&quot;]</value>
-      <webElementGuid>52b8ab6b-4d94-48a1-9e4d-513f66def574</webElementGuid>
+      <webElementGuid>a93a28ca-3594-4e1f-9cdd-315efb83b1d1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[4]/div</value>
-      <webElementGuid>40f34287-0b91-422e-ae2e-a899cc178732</webElementGuid>
+      <webElementGuid>d2f948a4-da3c-4e9c-b983-80218a030720</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan nomor handphone anda.'])[1]/following::div[3]</value>
-      <webElementGuid>34ec0e69-4510-4b37-955d-5316354f8afb</webElementGuid>
+      <webElementGuid>f3824215-3802-45bf-830b-543648ee2813</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone'])[1]/following::div[4]</value>
-      <webElementGuid>51032d5e-411b-479d-a60f-f035d6b85b36</webElementGuid>
+      <webElementGuid>ff6cccdf-f56b-473e-892e-62367c93c390</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div</value>
-      <webElementGuid>69ca7601-4b82-45e8-a6da-bac7f3c37d35</webElementGuid>
+      <webElementGuid>1e14a772-74db-4e4a-888c-1d01e8092c98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Lanjutkan' or . = 'Lanjutkan')]</value>
-      <webElementGuid>bf9f85e6-7b99-4186-8aee-7be660928906</webElementGuid>
+      <webElementGuid>cc277e8d-dbdb-4d70-9448-032679d7be8c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

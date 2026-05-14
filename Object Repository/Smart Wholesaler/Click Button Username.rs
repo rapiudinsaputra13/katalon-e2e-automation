@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>mobile phone number</name>
+   <name>Click Button Username</name>
    <tag></tag>
-   <elementGuidId>669a05b5-43f1-48e8-8888-f48610db5b71</elementGuidId>
+   <elementGuidId>9a851408-41b1-4697-87a4-4dc1b5f2155d</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Phone Number']</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>div.fnt_wht_a.txt_14.crs_pointer</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;root&quot;]/div/div/div/div[3]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>301ad474-b568-4386-bacd-716e368d51c7</webElementGuid>
+      <webElementGuid>e13ea574-ecf2-4a52-8a37-b5ac8e564d12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fnt_wht_a txt_14 crs_pointer</value>
-      <webElementGuid>86fd8598-64fb-4ae4-943a-0f99a62d4197</webElementGuid>
+      <webElementGuid>00145f44-a8e8-4e56-b88b-30a829fc6965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Lanjutkan</value>
-      <webElementGuid>c3962c84-ff6c-49ce-98c2-cb5a00c6852c</webElementGuid>
+      <webElementGuid>da0c1148-c2f4-477e-ad69-d85ca99df5dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;view_center&quot;]/div[@class=&quot;react-reveal&quot;]/div[4]/div[@class=&quot;fnt_wht_a txt_14 crs_pointer&quot;]</value>
-      <webElementGuid>73686a68-2e5a-4505-984d-d0999286ea8b</webElementGuid>
+      <webElementGuid>0aeefb6a-c844-49b0-972b-9b14448b508c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[4]/div</value>
-      <webElementGuid>ee822906-6214-4a36-bce2-6bb4d73f360a</webElementGuid>
+      <webElementGuid>75c3b9f9-b7d8-4555-b019-42e1f46426df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan nomor handphone anda.'])[1]/following::div[3]</value>
-      <webElementGuid>a2071917-747e-426b-841a-87b156a5f5e5</webElementGuid>
+      <webElementGuid>eaf3a2f5-f200-4ef1-bf48-cbbbff55ce21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone'])[1]/following::div[4]</value>
-      <webElementGuid>fa599b1e-11d7-4d92-96ea-7b2dcbb50261</webElementGuid>
+      <webElementGuid>cf4e6f28-3edf-40ff-a876-604dffd93748</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div</value>
-      <webElementGuid>b1e6ac78-09c9-4ce8-9916-0fb0ce058ee9</webElementGuid>
+      <webElementGuid>0d9821c8-c541-44e7-a7dd-1cc7bd252dc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Lanjutkan' or . = 'Lanjutkan')]</value>
-      <webElementGuid>9685c283-ae2f-4f9d-bcd8-f0d70170eeb3</webElementGuid>
+      <webElementGuid>868987e6-5e92-42d9-92e5-4e32678c6cad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

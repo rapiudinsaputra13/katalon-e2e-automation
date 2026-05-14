@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>mobile phone number</name>
+   <name>Click Button Login</name>
    <tag></tag>
-   <elementGuidId>669a05b5-43f1-48e8-8888-f48610db5b71</elementGuidId>
+   <elementGuidId>de248bc0-d539-4ed1-b298-f6321680008d</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;login-form&quot;]/div[2]/div</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>div.fnt_wht_a.txt_14.crs_pointer</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;root&quot;]/div/div/div/div[3]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>301ad474-b568-4386-bacd-716e368d51c7</webElementGuid>
+      <webElementGuid>968b4c2c-f20e-4e53-ac09-eef9b478b06b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fnt_wht_a txt_14 crs_pointer</value>
-      <webElementGuid>86fd8598-64fb-4ae4-943a-0f99a62d4197</webElementGuid>
+      <webElementGuid>1bd7c2d0-dab2-4d0b-814e-d37280fd389e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Lanjutkan</value>
-      <webElementGuid>c3962c84-ff6c-49ce-98c2-cb5a00c6852c</webElementGuid>
+      <webElementGuid>d4600bff-b807-4709-af02-1f8d69f24221</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;view_center&quot;]/div[@class=&quot;react-reveal&quot;]/div[4]/div[@class=&quot;fnt_wht_a txt_14 crs_pointer&quot;]</value>
-      <webElementGuid>73686a68-2e5a-4505-984d-d0999286ea8b</webElementGuid>
+      <webElementGuid>a93d8ed8-d57f-41ba-b54b-3294eeeb9f3f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[4]/div</value>
-      <webElementGuid>ee822906-6214-4a36-bce2-6bb4d73f360a</webElementGuid>
+      <webElementGuid>b3c565f8-bf7d-434f-946c-faa0b7e1fe03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan nomor handphone anda.'])[1]/following::div[3]</value>
-      <webElementGuid>a2071917-747e-426b-841a-87b156a5f5e5</webElementGuid>
+      <webElementGuid>bfa57e5e-da85-4570-b0ea-f2ad8520d182</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone'])[1]/following::div[4]</value>
-      <webElementGuid>fa599b1e-11d7-4d92-96ea-7b2dcbb50261</webElementGuid>
+      <webElementGuid>651bb1e9-0c95-42ab-a29b-8b639b1a4f89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div</value>
-      <webElementGuid>b1e6ac78-09c9-4ce8-9916-0fb0ce058ee9</webElementGuid>
+      <webElementGuid>a43a13ff-db64-4f45-b2a8-e2fdcf60a712</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Lanjutkan' or . = 'Lanjutkan')]</value>
-      <webElementGuid>9685c283-ae2f-4f9d-bcd8-f0d70170eeb3</webElementGuid>
+      <webElementGuid>e5a64e6f-2103-4981-a82d-47066e627f4d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

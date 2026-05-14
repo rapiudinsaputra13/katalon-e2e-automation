@@ -17,8 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startExistingApplication('lpi.samasama')
+Mobile.delay(10, FailureHandling.STOP_ON_FAILURE)
 
+Mobile.tap(findTestObject('SamaSama_apps/Close X'), 0)
+
+'Prod Kategori\r\n'
 Mobile.tap(findTestObject('SamaSama_apps/Food_Icon'), 0)
 
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)

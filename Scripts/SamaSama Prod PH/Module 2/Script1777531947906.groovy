@@ -52,7 +52,7 @@ Mobile.delay(2)
 
 // STEP 3
 println 'TC_A_001 - STEP 3 - Input Password'
-Mobile.tap(objPassword, WAIT, FailureHandling.STOP_ON_FAILURE)
+Mobile.waitForElementPresent(findTestObject('SamaSama_apps/Enter Password'), 10)
 Mobile.setText(objPassword, PASSWORD, WAIT, FailureHandling.STOP_ON_FAILURE)
 Mobile.pressBack()
 Mobile.delay(2)
@@ -61,4 +61,4 @@ Mobile.delay(2)
 println 'TC_A_001 - STEP 4 - Tap Login'
 Mobile.tap(findTestObject('SamaSama_apps/LoginButton'), WAIT, FailureHandling.STOP_ON_FAILURE)
 
-println 'TC_A_001 - LOGIN SUCCESS'
+println 'TC_A_001 - LOGIN SUCCESS' 

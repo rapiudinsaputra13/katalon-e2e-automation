@@ -22,7 +22,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 'URL this Website\r\n'
-def BASE_URL = 'https://victory-staging.samasamaapp.com/'
+def BASE_URL = 'https://victory-staging.samasamaapp.com'
 
 WebUI.comment('[Common] Opening Victory and logging in...')
 
@@ -35,14 +35,23 @@ WebUI.maximizeWindow()
 'Delay 5 second'
 WebUI.waitForPageLoad(5)
 
-'Click Field Phone Number\r\n'
-WebUI.click(findTestObject('Victory SamaSama Web/mobile phone number'))
-
 'Input Yout Phonr Number\r\n'
 WebUI.setText(findTestObject('Victory SamaSama Web/mobile phone number'), '639677891276')
 
+'Click Field Phone Number\r\n'
+WebUI.click(findTestObject('Victory SamaSama Web/mobile phone number'))
+
+'Delay 5 second'
+WebUI.waitForPageLoad(5)
+
+'Delay 5 second'
+WebUI.waitForPageLoad(5)
+
 'Click Button Next'
 WebUI.click(findTestObject('Victory SamaSama Web/next button'))
+
+'Delay 5 second'
+WebUI.waitForPageLoad(5)
 
 'Input Your Password'
 WebUI.setText(findTestObject('Victory SamaSama Web/mobile phone number'), 'SamaSama2026@!')
@@ -71,37 +80,17 @@ WebUI.click(findTestObject('Victory SamaSama Web/Click_Start_activity'))
 'Reason Attendance'
 WebUI.click(findTestObject('Victory SamaSama Web/Click Fill Reason to Attendance'))
 
-'Click Select Reason'
-WebUI.click(findTestObject('Victory SamaSama Web/Click Selec Reason for not scan'))
-
-Mobile.comment('Step Victory 19')
-
-'Click Option Available'
-WebUI.click(findTestObject('Victory SamaSama Web/No options available'))
-
-Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
-
-'Click Option Reason'
-WebUI.click(findTestObject('Victory SamaSama Web/options 3'))
-
-Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
-
-'Click Continue\r\n'
-WebUI.click(findTestObject('Victory SamaSama Web/Click Continue'))
-
-'Click Selfie your camera'
+'Click Selfie absen Wholesaler\r\n'
 WebUI.click(findTestObject('Victory SamaSama Web/Click Selfie'))
 
-Mobile.comment('Click Photos your camera')
+'Click Selfie absen Wholesaler\r\n'
+WebUI.delay(15)
 
-Mobile.delay(10, FailureHandling.STOP_ON_FAILURE)
+'Click Selfie absen Wholesaler\r\n'
+WebUI.click(findTestObject('Victory SamaSama Web/get Icon Camera'))
 
-'Click Photos your camera'
-WebUI.click(findTestObject('Victory SamaSama Web/Click Button Your Camera'))
+Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
 
-'Click Photos  Save'
-WebUI.click(findTestObject('Victory SamaSama Web/Click Button Your Camera - save'))
-
-'Click Save'
-WebUI.click(findTestObject('Victory SamaSama Web/Button - Save'))
+'Click Selfie absen Wholesaler\r\n'
+WebUI.click(findTestObject('Victory SamaSama Web/click_btn_confirm_selfie'))
 

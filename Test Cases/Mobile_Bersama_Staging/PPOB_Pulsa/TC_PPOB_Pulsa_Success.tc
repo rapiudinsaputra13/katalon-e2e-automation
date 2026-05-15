@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PPOB_Pulsa_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12295fa5-3ef9-4f00-93ff-93f8145eb96e</testCaseGuid>
+</TestCaseEntity>
